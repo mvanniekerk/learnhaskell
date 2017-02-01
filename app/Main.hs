@@ -1,6 +1,7 @@
 module Main where
 
-import Lib
+import CreditValidate
+import Hanoi
 
 main :: IO ()
-main = someFunc
+main = putStrLn "Hello World"
