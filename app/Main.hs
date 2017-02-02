@@ -1,7 +1,6 @@
 module Main where
 
-import CreditValidate
-import Hanoi
+import LogAnalysis
 
 main :: IO ()
 main = putStrLn "Hello World"

@@ -1,11 +1,11 @@
 name:                learnhaskell
 version:             0.1.0.0
-synopsis:            Initial project template from stack
+synopsis:            Learn me a haskell from cis 194
 description:         Please see README.md
 homepage:            https://github.com/githubuser/learnhaskell#readme
 license:             BSD3
 license-file:        LICENSE
-author:              Author name here
+author:              Matthijs van Niekerk
 maintainer:          example@example.com
 copyright:           2017 Author name here
 category:            Web
