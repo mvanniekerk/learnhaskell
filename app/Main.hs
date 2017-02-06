@@ -1,6 +1,6 @@
 module Main where
 
-import Golf
+import Fibonacci
 
 main :: IO ()
 main = putStrLn "Hello World"
