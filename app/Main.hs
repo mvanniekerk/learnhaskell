@@ -1,6 +1,7 @@
 module Main where
 
-import Fibonacci
+import Party
+import Employee
 
-main :: IO ()
-main = putStrLn "Hello World"
+
+main = partyMain
