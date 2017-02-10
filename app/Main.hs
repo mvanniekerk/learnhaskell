@@ -1,7 +1,5 @@
 module Main where
 
-import Party
-import Employee
+import AParser
 
-
-main = partyMain
+main = putStrLn "Hello World"
